@@ -1,0 +1,7 @@
+{
+    "name": "Dulsamthings",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/BepInEx/BepInEx",
+    "description": "An Item Pack I made because i need more coding experience",
+    "dependencies": [BepInEx-BepInExPack_ETG-5.4.2101]
+}
